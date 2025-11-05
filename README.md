@@ -1,6 +1,6 @@
 # Guest Talk at Dept. of Mathematics, MIT Manipal
 
-An interactive guest lecture for undergraduate students in the Department of Mathematics at MIT Manipal that combined brief, engaging talks with hands‑on activities using Jupyter Notebook to introduce core mathematical concepts, demonstrate practical computational tools, and highlight considerations for transitioning from academia to industry. Topics include **Eigenvectors, Transforms, Responsible AI, FinTech, Blockchain, Game Theory**, and **Network Graphs**.
+An interactive guest lecture for undergraduate students in the [Department of Mathematics](https://www.manipal.edu/mit/department-faculty/department-list/mathematics.html) at [MIT Manipal](https://www.manipal.edu/mit.html) that combined brief, engaging talks with hands‑on activities using Jupyter Notebook to introduce core mathematical concepts, demonstrate practical computational tools, and highlight considerations for transitioning from academia to industry. Topics include **Eigenvectors, Transforms, Responsible AI, FinTech, Blockchain, Game Theory**, and **Network Graphs**.
 
 **Goals**
 - Spark early interest in mathematics through playful, accessible problem-solving.
